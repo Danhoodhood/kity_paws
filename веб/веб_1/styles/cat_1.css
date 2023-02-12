@@ -6,6 +6,8 @@ body {
     line-height: 20px;
     color: #8B4513;
     background: #FFE4C4;
+    background-image: url('../img/back.jpg');
+    background-repeat: no-repeat;
 }
 
 h1 {
@@ -59,13 +61,13 @@ li {
     
 }
 .scale {
-    transition: 1s; /* Время эффекта */
+    transition: 1s; /* Г‚Г°ГҐГ¬Гї ГЅГґГґГҐГЄГІГ  */
     margin: 0 auto 20px;
     border-radius: 16px;
 }
 
     .scale:hover {
-        transform: scale(1.2); /* Увеличиваем масштаб */
+        transform: scale(1.2); /* Г“ГўГҐГ«ГЁГ·ГЁГўГ ГҐГ¬ Г¬Г Г±ГёГІГ ГЎ */
     }
 .other_pr {
     font-size: 23px;
