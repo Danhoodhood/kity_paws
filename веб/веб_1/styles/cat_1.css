@@ -6,6 +6,7 @@ body {
     line-height: 20px;
     color: #8B4513;
     background: #FFE4C4;
+     background-image: url('../img/back.jpg');
 }
 
 h1 {
