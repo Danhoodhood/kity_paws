@@ -77,6 +77,8 @@ body {
 
 .intro {
   margin: 0 0 120px;
+  padding-left: 100px;
+    padding-right: 100px;
 
 }
 
@@ -142,6 +144,8 @@ body {
 
 .portfolio {
   margin: 0 0 120px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .projects {
