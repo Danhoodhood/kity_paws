@@ -76,3 +76,13 @@ li {
     display: table;
     margin: 0 auto 20px;
 }
+.val {
+    padding: 6px 20px;
+    background-color: aliceblue;
+    vertical-align: baseline;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 20px;
+    background-color: #8B4513;
+    color: #ffffff;
+}
