@@ -86,3 +86,14 @@ li {
     background-color: #8B4513;
     color: #ffffff;
 }
+a:link {
+    color:aliceblue; /* Цвет ссылок */
+}
+
+a:visited {
+    color: aliceblue; /* Цвет посещенных ссылок */
+}
+
+a:active {
+    color: #FFE4C4; /* Цвет активной ссылки */
+}
