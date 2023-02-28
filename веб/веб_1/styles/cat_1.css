@@ -5,8 +5,8 @@ body {
     font-size: 14px;
     line-height: 20px;
     color: #8B4513;
-    background: #FFE4C4;
-     background-image: url('../img/back.jpg');
+    background-image: url('../img/back.jpg');
+    background-size: 100% auto;
 }
 
 h1 {
@@ -86,14 +86,20 @@ li {
     background-color: #8B4513;
     color: #ffffff;
 }
+a{
+    text-decoration: none;
+}
 a:link {
-    color:aliceblue; /* Цвет ссылок */
+    color:aliceblue; /* ���� ������ */
 }
 
 a:visited {
-    color: aliceblue; /* Цвет посещенных ссылок */
+    color: aliceblue; /* ���� ���������� ������ */
 }
 
 a:active {
-    color: #FFE4C4; /* Цвет активной ссылки */
+    color: #FFE4C4; /* ���� �������� ������ */
+}
+a:hover {
+    color: #ebf285; 
 }
