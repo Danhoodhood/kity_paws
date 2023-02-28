@@ -103,3 +103,11 @@ a:active {
 a:hover {
     color: #ebf285; 
 }
+footer{
+    background-color:#c7916a;
+    
+}
+.container{
+    display: table;
+    margin: 0 auto 20px;
+}
