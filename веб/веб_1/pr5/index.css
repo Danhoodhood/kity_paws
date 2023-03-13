@@ -1,0 +1,69 @@
+.brick-layout {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 300px;
+    padding: 5px;
+    box-sizing: content-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+    align-self: end;
+}
+
+.brick {
+    min-height: 80px;
+    min-width: 150px;
+    border:double 1px black;
+
+}
+
+.color-aqua {
+    background-color: aqua;
+    
+}
+.color-yellow {
+ 
+    background-color: yellow;
+
+}
+.color-fuchsia {
+   
+    background-color: fuchsia;
+
+}
+.r1 {
+ 
+    min-width: 100px;
+    border: double 1px black;
+}
+.r2 {
+    
+    border: double 1px black;
+}
+.r3 {
+    min-width: 100px;
+    border: double 1px black;
+}
+.r4 {
+    min-width: 120px;
+    border: double 1px black;
+
+}
+.r5 {
+    min-width: 100px;
+    border: double 1px black;
+}
+.r6 {
+    min-width: 120px;
+    border: double 1px black;
+}
+.r7 {
+    min-width: 100px;
+    border: double 1px black;
+}
+.r8 {
+    min-width: 260px;
+    border: double 1px black;
+}
