@@ -83,8 +83,8 @@ header {
     .product-card:hover {
         box-shadow: 0 14px 30px -15px rgba(0, 0, 0, 0.75);
         
-        -ms-transform: rotateZ(5deg);
-        transform: rotateZ(5deg);
+        -ms-transform: rotateZ(3deg);
+        transform: rotateZ(3deg);
     }
 
 .product-thumb a {
