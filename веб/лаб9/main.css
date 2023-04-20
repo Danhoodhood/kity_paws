@@ -81,7 +81,7 @@ transform: rotate(90deg);
     fill:white;
     
 }
-@media (min-width: 300px) and (max-width: 1000px){
+@media (min-width: 100px) and (max-width: 1000px){
     .lapka {
         margin-top: -33%;
     }
@@ -259,7 +259,7 @@ transform: rotate(90deg);
         margin-right: 20%;
       }
 }
-@media (min-width: 300px) and (max-width: 1000px){
+@media (min-width: 100px) and (max-width: 1000px){
     .paw{
         scale: 1;
         animation-duration: 3s;
@@ -285,7 +285,7 @@ transform: rotate(90deg);
     margin-bottom:5%;
     font-family: 'Raleway Bold', sans-serif;
 }
-@media (min-width: 300px) and (max-width: 1000px){
+@media (min-width: 100px) and (max-width: 1000px){
     .name_prod{
         padding-top: 5%;
         font-size: 23px;
