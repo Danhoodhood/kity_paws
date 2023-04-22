@@ -245,7 +245,7 @@ position: absolute;
 }
 @media (min-width: 100px) and (max-width: 1000px){
     .paw{
-        margin-top: 500px;
+        margin-top: 250px;
         transform: scale(1);
         animation-duration: 3s;
         animation-name: hi;
@@ -262,6 +262,13 @@ position: absolute;
             margin-right: -34%;
           }
    }
+}
+@media (min-width: 100px) and (max-width: 1000px){
+    .main_lapka h1{
+        margin-top: 250px;
+    }
+        
+       
 }
 .name_prod {
     transform: rotate(-90deg);
